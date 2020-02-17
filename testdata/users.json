@@ -1,0 +1,23 @@
+[
+  {
+    "name": "hoge",
+    "meta": {
+      "meta1": "hoge-meta1-value",
+      "meta2": "hoge-meta2-value"
+    }
+  },
+    {
+    "name": "hani",
+    "meta": {
+      "meta1": "hani-meta1-value",
+      "meta2": "hani-meta2-value"
+    }
+  },
+    {
+    "name": "fuga",
+    "meta": {
+      "meta1": "fuga-meta1-value",
+      "meta2": "fuga-meta2-value"
+    }
+  }
+]
